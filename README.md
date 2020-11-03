@@ -1,7 +1,7 @@
-These are the basic needed files and folders to build EndeavourOS system.
+These are the basic needed files and folders to build LiveOS-ARCHISO system.
 
 To get more info on how we put everything together read here:
-https://github.com/endeavouros-team/EndeavourOS-archiso/wiki/EndeavourOS-ISO
+https://github.com/endeavouros-team/EndeavourOS-archiso/wiki/LiveisoOS-ARCHISO
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()
 
